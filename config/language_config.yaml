@@ -1,0 +1,108 @@
+code_switch_enabled: true
+fallback_language: 'en'
+languages:
+  en:
+    whisper_code: 'en'
+    edge_tts_voice_male: 'en-US-ChristopherNeural'
+    edge_tts_voice_female: 'en-US-JennyNeural'
+    display_name: 'English'
+  hi:
+    whisper_code: 'hi'
+    edge_tts_voice_male: 'hi-IN-MadhurNeural'
+    edge_tts_voice_female: 'hi-IN-SwaraNeural'
+    display_name: 'Hindi'
+  ta:
+    whisper_code: 'ta'
+    edge_tts_voice_male: 'ta-IN-ValluvarNeural'
+    edge_tts_voice_female: 'ta-IN-PallaviNeural'
+    display_name: 'Tamil'
+  te:
+    whisper_code: 'te'
+    edge_tts_voice_male: 'te-IN-MohanNeural'
+    edge_tts_voice_female: 'te-IN-ShrutiNeural'
+    display_name: 'Telugu'
+  kn:
+    whisper_code: 'kn'
+    edge_tts_voice_male: 'kn-IN-GaganNeural'
+    edge_tts_voice_female: 'kn-IN-SapnaNeural'
+    display_name: 'Kannada'
+  ml:
+    whisper_code: 'ml'
+    edge_tts_voice_male: 'ml-IN-MidhunNeural'
+    edge_tts_voice_female: 'ml-IN-SobhanaNeural'
+    display_name: 'Malayalam'
+  mr:
+    whisper_code: 'mr'
+    edge_tts_voice_male: 'mr-IN-ManoharNeural'
+    edge_tts_voice_female: 'mr-IN-AarohiNeural'
+    display_name: 'Marathi'
+  gu:
+    whisper_code: 'gu'
+    edge_tts_voice_male: 'gu-IN-NiranjanNeural'
+    edge_tts_voice_female: 'gu-IN-DhwaniNeural'
+    display_name: 'Gujarati'
+  bn:
+    whisper_code: 'bn'
+    edge_tts_voice_male: 'bn-IN-BashkarNeural'
+    edge_tts_voice_female: 'bn-IN-TanishaaNeural'
+    display_name: 'Bengali'
+  pa:
+    whisper_code: 'pa'
+    edge_tts_voice_male: 'pa-IN-PrabhatNeural'
+    edge_tts_voice_female: 'pa-IN-SumanNeural'
+    display_name: 'Punjabi'
+  es:
+    whisper_code: 'es'
+    edge_tts_voice_male: 'es-ES-AlvaroNeural'
+    edge_tts_voice_female: 'es-ES-ElviraNeural'
+    display_name: 'Spanish'
+  fr:
+    whisper_code: 'fr'
+    edge_tts_voice_male: 'fr-FR-HenriNeural'
+    edge_tts_voice_female: 'fr-FR-DeniseNeural'
+    display_name: 'French'
+  de:
+    whisper_code: 'de'
+    edge_tts_voice_male: 'de-DE-ConradNeural'
+    edge_tts_voice_female: 'de-DE-KatjaNeural'
+    display_name: 'German'
+  it:
+    whisper_code: 'it'
+    edge_tts_voice_male: 'it-IT-DiegoNeural'
+    edge_tts_voice_female: 'it-IT-ElsaNeural'
+    display_name: 'Italian'
+  pt:
+    whisper_code: 'pt'
+    edge_tts_voice_male: 'pt-BR-AntonioNeural'
+    edge_tts_voice_female: 'pt-BR-FranciscaNeural'
+    display_name: 'Portuguese'
+  ru:
+    whisper_code: 'ru'
+    edge_tts_voice_male: 'ru-RU-DmitryNeural'
+    edge_tts_voice_female: 'ru-RU-SvetlanaNeural'
+    display_name: 'Russian'
+  ja:
+    whisper_code: 'ja'
+    edge_tts_voice_male: 'ja-JP-KeitaNeural'
+    edge_tts_voice_female: 'ja-JP-NanamiNeural'
+    display_name: 'Japanese'
+  ko:
+    whisper_code: 'ko'
+    edge_tts_voice_male: 'ko-KR-InJoonNeural'
+    edge_tts_voice_female: 'ko-KR-SunHiNeural'
+    display_name: 'Korean'
+  zh:
+    whisper_code: 'zh'
+    edge_tts_voice_male: 'zh-CN-YunxiNeural'
+    edge_tts_voice_female: 'zh-CN-XiaoxiaoNeural'
+    display_name: 'Chinese (Mandarin)'
+  ar:
+    whisper_code: 'ar'
+    edge_tts_voice_male: 'ar-EG-ShakirNeural'
+    edge_tts_voice_female: 'ar-EG-SalmaNeural'
+    display_name: 'Arabic'
+  ur:
+    whisper_code: 'ur'
+    edge_tts_voice_male: 'ur-PK-AsadNeural'
+    edge_tts_voice_female: 'ur-PK-UzmaNeural'
+    display_name: 'Urdu'
